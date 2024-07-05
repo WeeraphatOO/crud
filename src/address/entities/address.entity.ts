@@ -15,6 +15,7 @@ export class Address {
 
   @Column()
   distinct: string;
+  //sdfaghasudf
 
   @Column()
   province: string;
