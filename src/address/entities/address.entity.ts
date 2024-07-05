@@ -12,10 +12,10 @@ export class Address {
 
   @Column()
   sub_distinct: string;
+  //ggdsgfuyguiesg
 
   @Column()
   distinct: string;
-  //sdfaghasudf
 
   @Column()
   province: string;
